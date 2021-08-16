@@ -112,6 +112,7 @@ int main() {
     }
     cout << fixed << setprecision(2)<< "Average Waiting time: " << avg_waiting_time << endl;
     cout << "Average Turnaround time: " << avg_turnaround_time << endl;
+
 }
 
 
